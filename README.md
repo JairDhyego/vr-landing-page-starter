@@ -8,6 +8,7 @@
 Completo.
 
 ## Link para o projeto:
+https://vr-landing-page.vercel.app
 
 ## tecnologias.
 Feito com framework react e usando a linguagem Javascript, e tailwindcss nesse projeto.
